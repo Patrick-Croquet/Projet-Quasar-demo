@@ -1,0 +1,10 @@
+{
+  "appId": "com.voyettes.quasar.app",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://192.168.56.1:1880"
+  }
+}
